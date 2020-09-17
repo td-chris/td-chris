@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there, I'm Christian! 👋
+
+<a href="https://www.linkedin.com/in/christian-todesquine-dias-805a28177/">
+  <img align="left" alt="Chris's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <!--
 **td-chris/td-chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
