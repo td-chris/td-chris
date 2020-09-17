@@ -12,6 +12,11 @@
   <img align="left" alt="Chris's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+</br>
+</br>
+
+Hi! My name is **Christian Todesquine Dias**, I'm a **Technology student** at UAM (Universidade Anhembi Morumbi) and a **CNC (Computerized Numeric Command) programmer** at [@B. Grob do Brasil](https://www.linkedin.com/company/bgrobdobrasil/)
+
 <!--
 **td-chris/td-chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
