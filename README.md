@@ -4,6 +4,14 @@
   <img align="left" alt="Chris's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a href="https://www.instagram.com/todesquine_chris/?hl=pt-br">
+  <img align="left" alt="Chris's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.facebook.com/christian.todesquinedias">
+  <img align="left" alt="Chris's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 <!--
 **td-chris/td-chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
