@@ -15,7 +15,20 @@
 </br>
 </br>
 
-Hi! My name is **Christian Todesquine Dias**, I'm a **Technology student** at UAM (Universidade Anhembi Morumbi) and a **CNC (Computerized Numeric Command) programmer** at [@B. Grob do Brasil](https://www.linkedin.com/company/bgrobdobrasil/)
+Hi! My name is **Christian Todesquine Dias**, I'm a **Technology student** at UAM (Universidade Anhembi Morumbi) and a **CNC (Computerized Numeric Command) programmer** at [@B. Grob do Brasil](https://www.linkedin.com/company/bgrobdobrasil/).
+
+</br>
+
+<details>
+  <summary> <b> - Languages and Skils! </b> <i> (click here to show!) </i> </summary>
+  </br>
+  
+  <p>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  </p>
+</details>
 
 <!--
 **td-chris/td-chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
