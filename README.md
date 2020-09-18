@@ -17,6 +17,8 @@
 
 Hi! My name is **Christian Todesquine Dias**, I'm a **Technology student** at UAM (Universidade Anhembi Morumbi) and a **CNC (Computerized Numeric Command) programmer** at [@B. Grob do Brasil](https://www.linkedin.com/company/bgrobdobrasil/).
 
+I live in **São Paulo - Brasil**.
+
 </br>
 
 <details>
@@ -28,6 +30,8 @@ Hi! My name is **Christian Todesquine Dias**, I'm a **Technology student** at UA
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   </p>
 </details>
