@@ -22,7 +22,7 @@ I live in **São Paulo - Brasil**.
 </br>
 
 <details>
-  <summary> <b> - Languages and Skils! </b> <i> (click here to show!) </i> </summary>
+  <summary> <b> - Languages and Skills! </b> <i> (click here to show!) </i> </summary>
   </br>
   
   <p>
