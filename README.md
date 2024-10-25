@@ -19,7 +19,7 @@
 </br>
 </br>
 
-Hi! My name is **Christian Todesquine Dias**, I'm a **Technology student** at UAM (Universidade Anhembi Morumbi) and a **IT Analyst** at [@Suzano](https://www.linkedin.com/company/suzano).
+Hi! My name is **Christian Todesquine Dias**, I'm a **Technology student** at Faculdade Descomplica and a **IT Analyst** at [@Suzano](https://www.linkedin.com/company/suzano).
 
 I live in **São Paulo - Brasil**.
 
